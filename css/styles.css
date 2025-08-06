@@ -433,8 +433,8 @@ p.overlay{
 
 .footer-container {
     display: flex;
-    gap: 120px;
     align-items: baseline;
+    justify-content: space-between;
 }
 
 .footer-left {
